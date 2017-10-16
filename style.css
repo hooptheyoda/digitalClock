@@ -1,0 +1,8 @@
+
+.container-clock {
+  height: 100%;
+  width: 100%;
+}
+.time {
+  font-size: 60px;
+}
