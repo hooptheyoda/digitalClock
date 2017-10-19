@@ -6,7 +6,7 @@ function getClock(){
   var min = time.getMinutes();
   var sec = time.getSeconds();
 
-  hrs = zero(getHr(hrs + 2));
+  hrs = zero(getHr(hrs));
   min = zero(min);
   sec = zero(sec);
 
