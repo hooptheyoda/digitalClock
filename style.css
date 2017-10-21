@@ -30,6 +30,6 @@ video {
   font-size: 72px;
 }
 
-.clock {
-
+.hidden {
+  display: none;
 }
