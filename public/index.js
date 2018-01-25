@@ -20,7 +20,7 @@ function getClock(){
      ampm = ' AM ';
   }
 
-  hrs = zero(getHr(hrs));
+  hrs = zero(getHr(hrs-4));
   min = zero(min);
   sec = zero(sec);
 
